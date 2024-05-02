@@ -13,13 +13,11 @@ footer a {
   color: green;
 }
 
-img {
-  width: 90%;
-  height: 90%;
-}
-
 .croissant-image {
   display: block;
   border-radius: 10px;
   margin: 30px auto;
+  object-fit: cover;
+  width: 100%;
+  height: auto;
 }
